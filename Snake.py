@@ -1,3 +1,6 @@
+# Simple Snake game. Speed raises every 5 points.
+
+
 from tkinter import *
 from random import randrange
 
